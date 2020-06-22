@@ -1,0 +1,13 @@
+.j-item{
+    padding: 2px;
+    border: 1px solid;
+    margin: 4px;
+}
+
+.j-item.bossy{
+    background-color: pink;
+}
+h3{
+    background-color: blue;
+    border: black double 1mm;
+}
